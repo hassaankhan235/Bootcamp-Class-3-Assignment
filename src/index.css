@@ -10,6 +10,7 @@ body {
 }
 
 .main {
+  color: black;
   background-color: beige;
   font-size: xx-large;
   text-align: center;
